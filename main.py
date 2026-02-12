@@ -210,5 +210,5 @@ while True:
 
     draw(board, board2)
 
-print("Made with no algoritms, no libraries (except time), no AI. Just vanilla")
-print("python with simple text based board and search method for AI's turn.")
+print("Thank you for playing")
+
